@@ -1,0 +1,26 @@
+Commits
+Worldly Galaxies 4
+Patch 13
+
+Removed Mods:
+- Hardcore Questing Mode
+
+Added Mods:
+- FTB Library
+  - FTB Quests
+  - FTB Teams
+  - FTB Chunks
+  - FTB Essentials
+  - FTB Ultimine
+- FTB Quests Optimizer
+- Integrated Dynamics
+- Rechiseled
+  - Rechiseled AE2
+  - Rechiseled Create
+- Chisel Reborn
+- Dynamic Villager Trades
+- XNet
+
+Updated Mods:
+- Curios API [5.8.0 -> 5.8.1]
+- Embeddium [0.3.12 -> 0.3.14]

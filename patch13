@@ -14,13 +14,25 @@ Added Mods:
   - FTB Ultimine
 - FTB Quests Optimizer
 - Integrated Dynamics
+  - Integrated Crafting
+  - Integrated Terminals
+  - Integrated Tunnels
 - Rechiseled
   - Rechiseled AE2
   - Rechiseled Create
-- Chisel Reborn
 - Dynamic Villager Trades
 - XNet
+  - XNet Gases
 
 Updated Mods:
+- Chipped [3.0.4 -> 3.0.6]
+- CreativeCore [2.11.25 -> 2.11.26]
 - Curios API [5.8.0 -> 5.8.1]
+- Deep Aether [1.0.2 -> 1.0.3]
 - Embeddium [0.3.12 -> 0.3.14]
+- ModernFix [5.16.0 -> 5.16.1]
+- Quark [4.0-440 -> 4.0-441]
+- The Bumblezone [7.3.4 -> 7.3.5]
+- Xaero's Minimap [24.0.3 -> 24.1.1]
+- Xaero's Worldmap [1.38.1 -> 1.38.4]
+

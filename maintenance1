@@ -1,0 +1,14 @@
+Commits
+Maintenance Patch 1 / Patch 21
+Worldly Galaxies 4
+
+Added Mods:
+- Connectivity
+- Oculus
+
+Removed Mods:
+- Create Steam N Rails
+
+Bugs Squashed:
+- Payload Error when joining an Essential world or multiplayer server.
+- Fixed NBT Error when joining a server.

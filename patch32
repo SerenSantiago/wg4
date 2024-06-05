@@ -1,0 +1,13 @@
+Commits
+Worldly Galaxies 4
+Patch 32
+
+Added Advanced Mining Dimension.
+
+Config:
+- [SMD] Disabled Underground.
+- [SMD] Disabled Caverns.
+- [SMD] Disabled Deep Caverns.
+- [SMD] Disabled Ender Caves.
+- [SMD] Disabled All Hostiles.
+- [SMD] Disabled All Dungeons.

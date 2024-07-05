@@ -1,0 +1,21 @@
+Commits
+Worldly Galaxies 4
+Patch 4.00.1
+
+Fixing Last Remaining Fixable Issues Before Launch.
+
+Removed:
+- More Powerful Game Rules
+- RPG Health System
+
+Config Changes:
+- Disabled Apotheosis Adventure Module.
+- Turned off Flying Block damage in Weather 2.
+- Turned down Frequency of Storms in Weather 2.
+
+Quest Changes:
+* Added Rewards To "TNT" Quest.
+* Added Repeatable Quests for Missing Mobs.
+* Moved "Diamonds" & "Mining Dimension" Quests.
+* Added Quest for Meteoric Iron.
+* Added Checkmark To Enable The Challenge Questline.

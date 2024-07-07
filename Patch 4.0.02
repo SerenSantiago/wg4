@@ -1,0 +1,8 @@
+Worldly Galaxies 4
+Patch 4.0.02
+
+- Disabled snow pile-up from snowstorms in non-cold biomes.
+- Fixed progression system of 'In The Beginning' questline.
+- Fixed broken reward in Common rewards loot table.
+- Disabled Essential Discord RPC.
+- Added Proper Discord RPC via Simple Discord Rich Presence.

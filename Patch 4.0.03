@@ -1,0 +1,14 @@
+Worldly Galaxies 4
+Patch 4.0.03
+
+[ADD] Metal Barrels.
+[CFG] SMD - Fixed issue with mob spawns.
+[QST] Fixed issues with Challenge quests triggering without having to do the reward.
+  - Since Questline is Optional, we have added a Check Mark to start it, and disabled the completion toast.
+    - Insane Insanium
+      - Now a Consume Quest, but decreased from 8196 to 4098.
+    - What.
+      - Replaced w/ Something Sinister
+    - You Certainly Are The Buzz Of The Town!
+      - Added a second objective.
+  

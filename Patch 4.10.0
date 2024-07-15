@@ -1,0 +1,89 @@
+Running List
+Changes + Suggestions
+Patch 4.1
+
+* Released July 13, 2024
+
+ADDED:
+- Tetra [Addons]
+  - Withering Boon
+  - Art Of Forging
+- Let's Do [Addons]
+  - Vinery
+  - Brewery
+  - Bakery
+  - NetherVinery
+- Farmer's Delight [Addons]
+  - Engineer's Delight
+  - Builder's Delight
+  - Vintage Delight
+  - Crabber's Delight
+  - Aquaculture Delight
+  - Thermal's Delight
+- Macaw's [Addons]
+  - Fences & Walls
+  - Lights
+- Mini Utilities
+  - Lemon Lib
+- Mekanism [Addons]
+  - Cardboard Tooltip
+  - More Solar Panels
+  - Ad Astra Ores
+- Solar Flux Reborn
+- Chicken Chunks
+- Corail Woodcutter
+- Build Guide
+- Someaddon Mods:
+  - Server Performance: Smooth Chunk Save
+  - Farsight
+  - Fix GPU Memory Leak
+  - Better Chunk Loading
+  - Client Crafting
+- Herald's Legion
+
+REMOVED:
+- Modular Powersuits
+   - FIXES NO FALL DAMAGE BUG - WILL NOT BE RE-ADDED
+- Numina
+  - MPS CORE MOD - WILL NOT BE RE-ADDED
+
+
+BUGS ISOLATED:
+  - NO FALL DAMAGE
+    - FIX: Removal of Modular Powersuits & Numina
+  - CHEST TEXTURE GLITCH
+    - FIX: AMD Graphics Card isolation only. Can be fixed by '/flywheel backend batching' command.
+  
+
+UPDATED:
+- Amendments [1.2.4 -> 1.2.8]
+- Applied Energistics 2 [15.2.8 -> 15.2.9]
+- Ars Energistique [1.1.7 -> 1.2.0]
+- Botania [444 -> 445]
+- Botany Pots [13.0.35 -> 13.0.36]
+- Comforts [6.3.5 -> 6.4.0]
+- Connectivity [5.5 -> 5.6]
+- Delightful [3.5.6 -> 3.5.7]
+- Draconic Evolutiion [3.1.2.575 -> 3.1.2.583]
+- Ender IO [6.1.5 -> 6.1.6]
+- Energized Power [2.12.0 -> 2.12.1]
+- Engineer's Delight [B1.3 -> B1.4] 
+- Extended AE [1.1.10 -> 1.1.11]
+- FTB Quests [4.6 -> 4.7]
+- Iron's Spells & Spellbooks [3.2.0 -> 3.2.1]
+- Iron's Spells' Recipe Addon [hf2.1 -> mv2.1] 
+- Modonomicon [1.73.0 -> 1.73.1]
+- Nullscape [1.2.6 -> 1.2.7]
+- The Bumblezone [7.4.9 -> 7.4.11]
+- Titanium [3.8.28 -> 3.8.32]
+- Twilight Flavors & Delights [2.0.11 -> 2.0.12]
+
+
+- QUESTS
+  - Artifaction Satisfaction [Artifacts] - 44 New Quests
+  - Architect's Folly [Building Challenges] - 78 New Quests
+  - Cyclic Nature [Cyclic/Misc Items] - 5 New Quests
+  - Who You Callin' Blockhead [Food] - 25 New Quests
+  - In The Beginning [Mod Starters] - 10 New Quests
+    - Various Quests have been moved for sake of progression.
+  - TOTAL QUESTS: 1,122

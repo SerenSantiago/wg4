@@ -20,7 +20,7 @@ Added:
 - ImmediatelyFast
 
 Removed:
-- Blue Power (Caused blockDestroy Log Spam)
+- Blue Power (Caused playerDestroy Log Spam)
 
 Updated:
 - Aquaculture 2

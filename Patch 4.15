@@ -4,9 +4,7 @@ Patch 4.15
 
 Config Changes:
 - ENDERIO: Balanced the capacity of Capacitor Banks to be more in line with other mods in the pack.
-- ENERGIZED POWER: Disabled world generation of electrician buildings.
 - JEI: Enabled Center Search Bar.
-- SMD: Re-Enabled Four Previously Disabled Dimensions.
 - RECIPES: Added 60+ New Recipe Changes & Scripts to Fix Various Issues & Balance Other Aspects Of Pack.
 
 Added:
@@ -17,37 +15,22 @@ Added:
 - Project Red (All Modules)
 - Measurements
 - ServerCore
-- ImmediatelyFast
+- JourneyMap
+  - MapFrontiers
 
 Removed:
 - Blue Power (Caused playerDestroy Log Spam)
+- Energized Power
 
 Updated:
-- Aquaculture 2
 - Botania
 - Botany Pots
 - Botany Trees
-- CC Tweaked
 - Common Capabilities
-- Crabber's Delight
 - Cucumber
-- Cyclic
 - Cyclops Core
 - Elytra Slot
-- Geophilic
 - Gravestone
-- Integrated Dynamics
-- Integrated Tunnels
-- JAOPCA
-- Joy Of Painting
-- Macaw's Furniture
-- Macaw's Windows
-- Modonomicon
 - Mystical Agriculture
 - Quark
-- RFTools Dimensions
-- Storage Drawers
-- The Bumblezone
-- Theurgy
-- UtiliX
 - Zeta

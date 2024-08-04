@@ -2,6 +2,8 @@ Commits
 Worldly Galaxies 4
 Patch 4.15
 
+** BACK UP YOUR WORLDS BEFORE UPDATING TO THIS PATCH.
+
 Config Changes:
 - ENDERIO: Balanced the capacity of Capacitor Banks to be more in line with other mods in the pack.
 - JEI: Enabled Center Search Bar.
@@ -21,7 +23,7 @@ Added:
 
 Removed:
 - Blue Power (Caused playerDestroy Log Spam)
-- Energized Power
+- Energized Power (MANY Crash Reports With This One)
 
 Updated:
 - Botania

@@ -1,0 +1,11 @@
+Commits
+Worldly Galaxies 4
+Patch 4.16
+
+- MANY Quest Fixes
+  - Most Questlines now can be started with a checkmark rather than dependencies.
+  - Building Challenges (Architect's Folly) has been reworked to be easier to follow.
+  - Mystical Agriculture questline has been reworked to be less challenging and less confusing.
+
+- Added Spark by popular request from server administrators.
+- Updated Cyclic.

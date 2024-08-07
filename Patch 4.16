@@ -7,5 +7,6 @@ Patch 4.16
   - Building Challenges (Architect's Folly) has been reworked to be easier to follow.
   - Mystical Agriculture questline has been reworked to be less challenging and less confusing.
 
+- Disabled Fancy Tool Models in Draconic Evolution, as they were causing random crashes.
 - Added Spark by popular request from server administrators.
 - Updated Cyclic.
